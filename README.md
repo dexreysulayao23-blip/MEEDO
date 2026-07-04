@@ -276,3 +276,17 @@ No license file is included in this repository. Contact MEEDO Tagbina or the rep
 ## Acknowledgments
 
 Built for **MEEDO Tagbina** to support municipal economic enterprise revenue planning, reporting, and data-driven decision making.
+
+---
+
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/1.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/2.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/3.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/4.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/5.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/6.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/7.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/8.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/9.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/10.png)
+![image](https://github.com/dexreysulayao23-blip/MEEDO/blob/6527ee2fa4224beae51d7903a82a0e45aca1c49d/11.png)
